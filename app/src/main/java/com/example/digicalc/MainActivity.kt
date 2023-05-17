@@ -23,11 +23,11 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // Pausa la ejecución durante unos segundos para simular la pantalla de carga
-        try {
-            Thread.sleep(2000)
-        } catch (e: InterruptedException) {
-            e.printStackTrace()
-        }
+        //try {
+         //   Thread.sleep(2000)
+        //} catch (e: InterruptedException) {
+          //  e.printStackTrace()
+        //}
 
         editTextNumber1 = findViewById(R.id.editTextNumber1)
         editTextNumber2 = findViewById(R.id.editTextNumber2)

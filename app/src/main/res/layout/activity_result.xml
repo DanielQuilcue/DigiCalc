@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:layout_marginBottom="16dp"
-        android:src="@mipmap/ic_result"/>
+        android:src="@mipmap/ic_result_final"/>
 
     <androidx.cardview.widget.CardView
         app:cardBackgroundColor="@color/default_color"
